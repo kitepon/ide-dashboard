@@ -24,7 +24,7 @@
 ## セットアップ（macOS / Linux 共通・一発）
 
 ```sh
-git clone https://github.com/kitepon-rgb/ide-dashboard ~/ide-dashboard
+git clone https://github.com/kitepon/ide-dashboard ~/ide-dashboard
 cd ~/ide-dashboard && ./setup.sh
 ```
 
